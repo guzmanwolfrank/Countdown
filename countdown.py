@@ -1,7 +1,7 @@
-# import the time module 
+# import time module 
 import time 
   
-# define the countdown func. 
+# define countdown function. 
 def countdown(t): 
     
     while t: 
@@ -13,8 +13,7 @@ def countdown(t):
       
     print('Congratulations!') 
    
-    
-  
+      
 # input time in seconds 
 t = input("Enter the time in seconds: ") 
   
